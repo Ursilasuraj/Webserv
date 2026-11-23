@@ -115,7 +115,7 @@ Performs no I/O.
 - Persistent connection semantics, including honouring `Connection: close`
 - Verifying our responses and headers against NGINX for equivalent requests
 
-### Part 3 — Configuration and resources — **Person B**
+### Part 3 — Configuration and resources — ** Ursila **
 
 Owns the configuration file and all filesystem access.
 
